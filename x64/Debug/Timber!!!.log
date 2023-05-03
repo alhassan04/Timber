@@ -1,0 +1,14 @@
+﻿  Timber!!!.cpp
+C:\VS Projects\Timber!!!\Timber!!!.cpp(239,6): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\VS Projects\Timber!!!\Timber!!!.cpp(277,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\VS Projects\Timber!!!\Timber!!!.cpp(306,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\VS Projects\Timber!!!\Timber!!!.cpp(365,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber!!!\Timber!!!.cpp(368,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber!!!\Timber!!!.cpp(395,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber!!!\Timber!!!.cpp(399,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber!!!\Timber!!!.cpp(424,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber!!!\Timber!!!.cpp(428,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber!!!\Timber!!!.cpp(449,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber!!!\Timber!!!.cpp(453,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\VS Projects\Timber!!!\Timber!!!.cpp(483,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber!!!.vcxproj -> C:\VS Projects\Timber!!!\x64\Debug\Timber!!!.exe
