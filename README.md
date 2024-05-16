@@ -24,7 +24,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/timber-game.git
+    git clone https://github.com/alhassan04/Timber
     cd timber-game
     ```
 
